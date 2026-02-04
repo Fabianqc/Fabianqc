@@ -1,54 +1,58 @@
-# Hola, soy Fabián Quijada 👋
+<div align="center">
 
-### Desarrollador Full Stack | Cofundador de Koodev.net | Estudiante de Informática (UDO)
+# ¡Hola, soy Fabián Quijada! 👋
 
-¡Bienvenido a mi perfil! Soy un desarrollador apasionado de 21 años, actualmente cursando los últimos semestres de **Informática en la Universidad de Oriente (UDO)**. Aunque me defino como perfil Junior, poseo un conocimiento amplio y versátil que va más allá del código, abarcando infraestructura y soporte técnico.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2997FF&background=00000000&center=true&vCenter=true&width=500&lines=Desarrollador+Full+Stack;Cofundador+de+Koodev.net;Estudiante+de+Inform%C3%A1tica+(UDO);Soporte+TI+y+Redes" alt="Typing SVG" />
+</a>
 
 ---
 
 ### 🚀 Sobre mí
 
-- 🔭 **Actualmente:** Trabajando en desarrollo web Full Stack y finalizando mi carrera universitaria.
-- 💼 **Experiencia:** Cofundador de **[Koodev.net](https://koodev.net)**.
-- 🛠 **Habilidades adicionales:** Tengo experiencia sólida en **Soporte Técnico**, mantenimiento de computadoras y configuración de **Redes Estructuradas**.
-- 🌐 **Infraestructura:** Manejo configuración de hosting, gestión de dominios/URLs y despliegues.
-- 🌱 **Aprendizaje continuo:** Siempre explorando nuevas tecnologías para mejorar mis desarrollos.
+Soy un apasionado de la tecnología de 21 años, fusionando el desarrollo de software con conocimientos sólidos en infraestructura. Estoy en la recta final de mi carrera en la UDO y simultáneamente emprendiendo en el mundo del desarrollo.
+
+🔹 **Emprendimiento:** Soy cofundador de **[Koodev.net](https://koodev.net)**, donde convertimos ideas en soluciones digitales.
+🔹 **Perfil Híbrido:** No solo escribo código; mi experiencia en **soporte técnico, redes estructuradas y gestión de hosting** me permite entender el ciclo completo de una aplicación, desde el servidor hasta el usuario.
+🔹 **Mentalidad:** Aunque soy Junior, me enfoco en construir soluciones robustas y profesionales, siempre aprendiendo lo último del ecosistema.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Tech Stack & Herramientas
 
-Me enfoco principalmente en el ecosistema JavaScript/TypeScript, pero no me limito a una sola herramienta.
+Estas son las tecnologías con las que construyo proyectos y soluciones. He incluido herramientas de desarrollo y de infraestructura basadas en tu perfil.
 
-**Frontend:**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-
-**Backend:**
-![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
-**Base de Datos & Herramientas:**
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,vue,nextjs,nodejs,nestjs,python,rust,mysql,postgres,git,github,vscode,docker,linux&theme=dark&perline=7" alt="My Skills" />
+  </a>
+</p>
 
 ---
 
 ### 📫 Conectemos
 
-Estoy abierto a colaboraciones y nuevas oportunidades. Puedes contactarme a través de:
+¿Tienes un proyecto en mente o quieres hablar de tecnología? ¡Contáctame!
 
-- 📧 **Correo Profesional:** [fabian.quijada@koodev.net](mailto:fabian.quijada@koodev.net)
-- 📩 **Correo Personal:** [fabian05demayo@gmail.com](mailto:fabian05demayo@gmail.com)
-- 💼 **LinkedIn:** [Tu LinkedIn Aquí](#) - 🐦 **Twitter / X:** [Tu Twitter Aquí](#) - 📸 **Instagram:** [Tu Instagram Aquí](#) ---
 <p align="center">
-  <i>"Programador Full Stack enfocado en soluciones eficientes y escalables."</i>
+  <a href="mailto:fabian.quijada@koodev.net">
+    <img src="https://img.shields.io/badge/Koodev_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Koodev"/>
+  </a>
+  <a href="mailto:fabian05demayo@gmail.com">
+    <img src="https://img.shields.io/badge/Personal_Mail-20232a?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Personal"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </p>
+
+<br/>
+
+<p align="center">
+  <i>"La esencia de la programación es controlar la complejidad."</i>
+</p>
+
+</div>
